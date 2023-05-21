@@ -6,7 +6,7 @@ public class Service {
     boolean setPost(){
         return false;
     }
-    Post  getPost(){
+    public Post  getPost(){
 return null;
     }
    List<Post> getPosts(){
